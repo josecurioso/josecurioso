@@ -9,7 +9,6 @@ I am a Software Engineer working on my Master's thesis at the University of Ovie
 
 ---
 
-<img align="left" alt="josecurioso's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=josecurioso&show_icons=true&hide_border=true" />
 
 <img align="center" alt="josecurioso's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecurioso&layout=compact" />
 
